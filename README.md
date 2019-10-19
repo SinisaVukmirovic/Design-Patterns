@@ -1,7 +1,6 @@
 ### Design Patterns
 ___
 #### What are design patterns:
-
 ##### software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
 ##### Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
 
@@ -11,3 +10,4 @@ ___
 
 #### Null Object Pattern
 #### Builder Pattern
+#### Singleton Pattern
